@@ -8,7 +8,10 @@ The Cold Drink Station is a beverage company that sells cold drinks under the br
 
 As a data analyst in the marketing department, you have been asked to prepare a comprehensive cost-benefit analysis and present it through a dashboard to the marketing head.
 
-The marketing team has decided to introduce a new bottle for Zingg, featuring World Cup-related images. This initiative will incur additional costs for a new mould and higher packaging expenses. The new bottle will replace the regular Zingg bottles for six months
+The marketing team has decided to introduce a new bottle for Zingg, featuring World Cup-related images. This initiative will incur additional costs for a new mould and higher packaging expenses. The new bottle will replace the regular Zingg bottles for six months.
+
+## 🚀Objective
+To conduct a cost-benefit analysis of the new marketing campaign and come out with insights and recommendations for the same.
 
 # 📜Requirements Gathering and Documentation
 
