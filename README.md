@@ -11,7 +11,12 @@ As a data analyst in the marketing department, you have been asked to prepare a 
 The marketing team has decided to introduce a new bottle for Zingg, featuring World Cup-related images. This initiative will incur additional costs for a new mould and higher packaging expenses. The new bottle will replace the regular Zingg bottles for six months.
 
 ## 🚀Objective
-To conduct a cost-benefit analysis of the new marketing campaign and come out with insights and recommendations for the same.
+- **Assess the financial impact of the new marketing campaign.**
+- **Compare the costs and revenue projections under the old and new plans.**
+- **Identify the profitability of the new initiative over the six months.**
+- **Provide actionable insights and recommendations to the marketing team.**
 
-# 📜Requirements Gathering and Documentation
+## 📜Requirements Gathering and Documentation
+As a business analyst, the first step would be to gather all the requirements necessary for the analysis and document it. Documentation is the most critical part of project development as it is the foundation of all further project deliverables describing what inputs and outputs are associated with each process function.
 
+#### I have created a Business Requirement documentation for our business case [Here](https://github.com/itskshitija/Zingg-Cost-Benefit-Analysis/blob/main/Zingg-CostBenefitAnalysis_BRD.pdf)
