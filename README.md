@@ -104,7 +104,6 @@ _**Note:**_ _The company will launch the advertising campaign in March and conti
 | Preservatives  | 400                   | 0.50%      |
 | Coloring Agents| 500                   | 0.50%      |
 
-According to the raw material content table, 
 Based on the composition table, the cold drink consists of:  
 - **85% Water**  
 - **10% Sugar Syrup**  
